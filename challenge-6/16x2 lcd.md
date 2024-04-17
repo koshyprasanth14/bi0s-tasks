@@ -15,5 +15,7 @@ then, after toggling the rs switch, ive input the binary of the ascii values of 
 
 First i made the circuit in wokwi, but for some reason it was not working, so i tried it out in tinkercad and it worked. Hence ive attached the tinkercad link. 
 
-[link](https://www.tinkercad.com/things/6Kj9Q5AYUFQ-lcd-8-bit)
+[project link](https://www.tinkercad.com/things/6Kj9Q5AYUFQ-lcd-8-bit)
+
+
 [screenshot](./img/screenshot.jpg)
